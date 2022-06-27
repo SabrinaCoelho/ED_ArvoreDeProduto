@@ -1,0 +1,39 @@
+f Bolo 0 1
+f Salgado 0 1
+f Bebida 0 1
+p Aniversário 0 1
+f Recheio 1 1
+f Massa 4 1
+f cobertura 3 1
+p bolo
+f Leite_condensado 5.5 1
+f Coco_ralado 3 1
+p Recheio
+f Ovo .65 4
+f Leite 3.5 .4
+f Farinha .6 3
+p Massa
+f Chantilly 0 1
+p Cobertura
+f Açúcar 2.5 .31
+f Ovo .65 3
+p Chantilly
+f Bolinha_de_queijo 0 300
+f Coxinha 0 300
+p Salgado
+f Queijo .01 .05
+f Ovo .5 .3
+f Farinha .05 .25
+p Bolinha_de_queijo
+f Frango .01 .05
+f Ovo .5 .3
+f Farinha .05 .25
+p Coxinha
+f Suco 0 5
+f Refrigerante 0 5
+p Bebida
+f Água 3.5 2
+f Laranja 6 5
+p Suco
+f Guaraná 4.6 1
+p Refrigerante
