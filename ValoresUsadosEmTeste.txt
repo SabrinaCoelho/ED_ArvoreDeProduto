@@ -1,3 +1,5 @@
+Os valores devem ser inseridos linha a linha.
+
 f Bolo 0 1
 f Salgado 0 1
 f Bebida 0 1
